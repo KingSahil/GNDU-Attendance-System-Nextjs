@@ -1,0 +1,30 @@
+{
+  "..\\node_modules\\html2pdf.js\\node_modules\\jspdf\\dist\\jspdf.es.min.js -> canvg": {
+    "id": "..\\node_modules\\html2pdf.js\\node_modules\\jspdf\\dist\\jspdf.es.min.js -> canvg",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_canvg_lib_index_es_js.js"
+    ]
+  },
+  "..\\node_modules\\html2pdf.js\\node_modules\\jspdf\\dist\\jspdf.es.min.js -> dompurify": {
+    "id": "..\\node_modules\\html2pdf.js\\node_modules\\jspdf\\dist\\jspdf.es.min.js -> dompurify",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_html2pdf_js_node_modules_dompurify_dist_purify_es_mjs.js"
+    ]
+  },
+  "..\\node_modules\\html2pdf.js\\node_modules\\jspdf\\dist\\jspdf.es.min.js -> html2canvas": {
+    "id": "..\\node_modules\\html2pdf.js\\node_modules\\jspdf\\dist\\jspdf.es.min.js -> html2canvas",
+    "files": []
+  },
+  "components\\dashboard\\SessionSetup.tsx -> @/data/students": {
+    "id": "components\\dashboard\\SessionSetup.tsx -> @/data/students",
+    "files": [
+      "static/chunks/_app-pages-browser_src_data_students_ts.js"
+    ]
+  },
+  "utils\\export.ts -> html2pdf.js": {
+    "id": "utils\\export.ts -> html2pdf.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_html2pdf_js_dist_html2pdf_js.js"
+    ]
+  }
+}
